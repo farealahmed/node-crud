@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "first nodeJS project on gitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farealahmed/node-crud.git"
+  },
+  "author": "Fareal Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farealahmed/node-crud/issues"
+  },
+  "homepage": "https://github.com/farealahmed/node-crud#readme",
+  "dependencies": {
+    "mongodb": "^4.4.0"
+  }
+}
