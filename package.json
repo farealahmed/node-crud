@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/farealahmed/node-crud#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "mongodb": "^4.4.0"
   }
 }
